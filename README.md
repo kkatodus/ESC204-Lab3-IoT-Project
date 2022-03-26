@@ -4,4 +4,4 @@ This a class project from the ESC204 course I am taking as a student at the Univ
 
 <a href="https://youtu.be/etgSocM0aQ0
 " target="_blank"><img src="http://img.youtube.com/vi/etgSocM0aQ0/0.jpg" 
-alt="Demo video" width="100%" height="180" border="10" /></a>
+alt="Demo video" width="100%" border="10" /></a>
